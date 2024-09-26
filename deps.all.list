@@ -165,7 +165,6 @@ libpcsclite1
 ca-certificates
 openssl
 ca-certificates-uniontech
-ffmpeg
 libavcodec-extra58
 libaom0
 libavutil56
@@ -299,7 +298,11 @@ libxss1
 libxcb-shape0
 libxcb-xfixes0
 libxv1
-libavresample4
+libroar-compat2
+libroar2
+libspeexdsp1
+xdotool
+libxdo3
 x11-xserver-utils
 libxaw7
 libxmu6
@@ -311,5 +314,3 @@ cpp-8
 libisl19
 libmpc3
 libmpfr6
-xdotool
-libxdo3
